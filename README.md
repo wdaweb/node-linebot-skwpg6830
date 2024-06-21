@@ -28,4 +28,8 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫](https://github.com/wdaweb/node-linebot-skwpg6830.git)
+ID:@184weywi
+介紹:輸入各縣市可查詢各地區米價，例如:台北市
+就會出現當地之米價
+串接API:https://data.moa.gov.tw/Service/OpenData/FromM/RicepriceData.aspx?IsTransData=1&UnitId=266
